@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Marvellous Gallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_characters">Personajes</string>
+    <string name="nav_comics">Comics</string>
+    <string name="nav_creators">Creadores</string>
+    <string name="nav_events">Eventos</string>
+    <string name="nav_series">Series</string>
+    <string name="nav_stories">Historias</string>
+    <string name="nav_exit">Salir</string>
+    <string name="nav_options">Opciones</string>
+</resources>
